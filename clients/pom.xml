@@ -60,5 +60,15 @@
         <version>5.8.2</version>
         <scope>test</scope>
     </dependency>
+    <dependency>
+        <groupId>com.azure</groupId>
+        <artifactId>azure-storage-blob</artifactId>
+        <version>12.29.0</version> <!-- Use the latest version -->
+    </dependency>
+    <dependency>
+        <groupId>com.azure</groupId>
+        <artifactId>azure-identity</artifactId>
+        <version>1.10.2</version>
+    </dependency>
 </dependencies>
 </project>
